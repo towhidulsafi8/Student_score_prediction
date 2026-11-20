@@ -153,7 +153,7 @@ Student_Study_Hours_and_Scores/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/student-study-hours-prediction.git
+[git clone https://github.com/towhidulsafi8/Student_score_prediction]
 ```
 
 2. Open the notebook in Google Colab or Jupyter Notebook.
